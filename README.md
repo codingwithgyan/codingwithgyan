@@ -7,13 +7,13 @@ could get hands-on experience.
 </p>
 <br/>
 <ul>
+<li>🔭 I'm currently working on MERN Technology</li><br/>
+
 <li>🌱 My learning wish-list includes Nextjs, WebGL and Three.js</li><br/>
 
 <li>🤝 I’m looking for help with OpenSource Contributions. Ping me, if you can guide me. Would be grateful.🌻</li><br/>
 
 <li>💬 Ask me about javascript, react and mongoDb</li><br/>
-
-<li>📫 You can reach me at codewithgyan@gmail.com</li><br/>
 
 <li>⚡ Fun fact: There are 2 rules to success. First, never tell anyone everything you know.</li><br/>
 
@@ -37,5 +37,5 @@ could get hands-on experience.
 <a href="https://dev.to/codingwithgyan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/codingwithgyan" height="30" width="40" /></a>
 <a href="https://twitter.com/codewithgyan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="codewithgyan" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/codewithgyan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/codewithgyan/" height="30" width="40" /></a>
-<a href="https://codewithgyan.vercel.app"><img align="center" src="./website" /></a><br/>
+<a href="https://codewithgyan.vercel.app"><img align="center" src="web.png" /></a><br/>
 </p>
