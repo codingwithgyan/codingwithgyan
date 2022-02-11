@@ -29,7 +29,8 @@ could get hands-on experience.
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Gyaneshwar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=codingwithgyan&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/> <br/><br/>
     </a>
 </p>
-
+<br/>
+    <img src="https://activity-graph.herokuapp.com/graph?username=codingwithgyan&theme=react-dark"/>
   <br/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -38,3 +39,4 @@ could get hands-on experience.
 <a href="https://www.linkedin.com/in/codewithgyan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/codewithgyan/" height="30" width="40" /></a>
 <a href="https://codewithgyan.vercel.app"><img align="center" src="web.svg" /></a><br/>
 </p>
+<br/>   
