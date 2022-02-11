@@ -1,5 +1,10 @@
 <img src="name.svg" align="center" />
-<h3 align="center">A passionate Web developer from India</h3>
+<h3 align="center">An energetic full-stack web developer with a fluid
+understanding of different programming languages. A team
+player, who has some experience leading Masai School project
+teams. Looking forward to working in an organization where he
+can get hands-on experience.
+</h3>
 <br/>
 <ul>
   
