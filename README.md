@@ -1,4 +1,4 @@
-<img src="name.svg" align="center" />
+<img src="GYAN.svg" align="center" />
 <h3 align="center">An energetic full-stack web developer with a fluid
 understanding of different programming languages. A team
 player, who has some experience leading Masai School project
