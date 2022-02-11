@@ -1,5 +1,4 @@
 <img src="name.svg" align="center" />
-<br/>
 <h3 align="center">A passionate Web developer from India</h3>
 <br/>
 <ul>
