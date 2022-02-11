@@ -22,7 +22,15 @@
 <br/>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=codingwithgyan&show_icons=true&locale=en&layout=compact" alt="codingwithgyan" /></p>
 <br/>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codingwithgyan&show_icons=true&locale=en" alt="codingwithgyan" /></p>
+<br/>
+<p align="left">
+    <a href="https://github-readme-streak-stats.herokuapp.com/?user=sushanthps">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Sushanth's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sushanthps&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/> <br/><br/>
+    </a>
+  <img alt="Sushanth's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushanthps&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+</p>
+
+<br/>
   <br/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
