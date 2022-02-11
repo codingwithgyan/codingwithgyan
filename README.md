@@ -1,20 +1,15 @@
 <img src="GYAN.svg" align="center" />
-<h3 align="center">An energetic full-stack web developer with a fluid
+<p align="center">An energetic full-stack web developer with a fluid
 understanding of different programming languages. A team
-player, who has some experience leading Masai School project
-teams. Looking forward to working in an organization where he
-can get hands-on experience.
-</h3>
+player with an experience of leading Masai School project
+teams. Looking forward to working in an organization where I
+could get hands-on experience.
+</p>
 <br/>
 <ul>
-  
-<li>🔭 I’m currently a student at Masai School</li><br/>
-
 <li>🌱 My learning wish-list includes Nextjs, WebGL and Three.js</li><br/>
 
 <li>🤝 I’m looking for help with OpenSource Contributions. Ping me, if you can guide me. Would be grateful.🌻</li><br/>
-
-  <li>👨‍💻 Know more about me at <a href="https://codewithgyan.vercel.app">https://codewithgyan.vercel.app</a></li><br/>
 
 <li>💬 Ask me about javascript, react and mongoDb</li><br/>
 
@@ -42,4 +37,5 @@ can get hands-on experience.
 <a href="https://dev.to/codingwithgyan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/codingwithgyan" height="30" width="40" /></a>
 <a href="https://twitter.com/codewithgyan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="codewithgyan" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/codewithgyan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/codewithgyan/" height="30" width="40" /></a>
+<a href="https://codewithgyan.vercel.app"><img align="center" src="./website" /></a><br/>
 </p>
