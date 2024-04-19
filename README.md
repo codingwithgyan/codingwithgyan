@@ -30,7 +30,7 @@ could get hands-on experience.
     </a>
 </p>
 <br/>
-    <img src="https://activity-graph.herokuapp.com/graph?username=codingwithgyan&theme=react-dark"/>
+    ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=codingwithgyan&show_icons=true)
   <br/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
